@@ -1,0 +1,3 @@
+[submodule "handwriting-synthesis"]
+	path = handwriting-synthesis
+	url = git@github.com:CT83/handwriting-synthesis.git
